@@ -1,3 +1,9 @@
+reprepro (5.4.1-1maruska) unstable; urgency=medium
+
+  * sid
+
+ -- Michal Maruska <mmaruska@gmail.com>  Mon, 03 Jul 2023 13:05:41 +0200
+
 reprepro (5.4.1-1) experimental; urgency=medium
 
   * Install native build-deps for arch:all
